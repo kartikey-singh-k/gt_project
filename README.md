@@ -401,9 +401,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-**Project Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Project Maintainer**: Aditya Raj   
+**GitHub**: [Aditya Raj](https://github.com/aditya-46-raj)
 
 ---
 
